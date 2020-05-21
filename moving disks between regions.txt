@@ -1,0 +1,3 @@
+azcopy copy 'copy in export key from managed disk' 'copy path to blob location including file name with extension, then append the SAS key generated (key only, starts with a ?)'
+
+add path or full path to azcopy.exe in powershell
